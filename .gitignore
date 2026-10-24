@@ -1,0 +1,18 @@
+# Vercel
+.vercel
+
+# Temp & Scratch scripts
+*.py
+*.log
+_backup_projeto_anterior/
+_temp_scripts/
+fabiola_*.html
+fabiolagoes_site.html
+site_data_extracted.txt
+assets_fabiola/
+squash-sound/
+relatorio*.pdf
+
+# OS
+.DS_Store
+Thumbs.db
